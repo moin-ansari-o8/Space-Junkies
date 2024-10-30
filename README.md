@@ -101,6 +101,4 @@ Check out the demo video of the game to see it in action!
 
 [Watch the Demo Video](YOUR_VIDEO_LINK_HERE)
 
-Replace `YOUR_VIDEO_LINK_HERE` with the actual URL of the demo video on platforms like YouTube.
-
 Enjoy playing the Missile Launch Game! 🚀
