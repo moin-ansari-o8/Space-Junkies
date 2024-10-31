@@ -1,6 +1,6 @@
 # 🚀 Space-Junkies Game 🎮
 
-![Space-Junkies Screenshot](assets\game_dashboard.png)
+![Space-Junkies Screenshot](https://github.com/moin-ansari-o8/Space-Junkies/blob/main/assets/game_dashboard.png)
 
 **A dynamic missile launch game built in VB.NET where players launch missiles by entering velocity and angle to hit enemy objects!**
 
