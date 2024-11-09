@@ -2,6 +2,10 @@
 
 ![Space-Junkies Screenshot](https://github.com/moin-ansari-o8/Space-Junkies/blob/main/assets/game_dashboard.png)
 
+Check out the demo video of the game to see it in action!
+
+[Watch the Demo Video](https://www.youtube.com/watch?v=Aa4A6YTFcr8&t=484s).
+
 **A dynamic missile launch game built in VB.NET where players launch missiles by entering velocity and angle to hit enemy objects!**
 
 ## 📋 Project Overview
@@ -97,10 +101,5 @@ For any questions, feedback, or support regarding the game, feel free to reach o
 - **Email**: [moin.edu01@gmail.com](mailto:moin.edu01@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/moin-ansari1817/](https://www.linkedin.com/in/moin-ansari1817/)
 
-## Demo Video
-
-Check out the demo video of the game to see it in action!
-
-[Watch the Demo Video](something).
 
 Enjoy playing the Missile Launch Game! 🚀
